@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7592f0b9-bbc4-48b6-8b1f-9b03224d2908" name="Changes" comment="Test case 29 is successfully completed">
+    <list default="true" id="7592f0b9-bbc4-48b6-8b1f-9b03224d2908" name="Changes" comment="Test case 26 is successfully completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAPI/src/utilities/genericUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAPI/src/utilities/genericUtility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAPI/src/utilities/requestsUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAPI/src/utilities/requestsUtility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAPI/tests/customers/test_create_customers.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAPI/tests/customers/test_create_customers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Kanaka/PycharmProjects/Real_Estate&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kanaka\PycharmProjects\APITestingByTejas\TestAPI\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.convert">
     <configuration name="env" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="APITestingByTejas" />
@@ -109,12 +111,65 @@
       <option name="project" value="LOCAL" />
       <updated>1719556564934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test case 26 is successfully completed">
+      <option name="closed" value="true" />
+      <created>1722408000319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722408000319</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test case 26 is successfully completed">
+      <option name="closed" value="true" />
+      <created>1722408011675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722408011675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="b3d2b3a9-3d32-4ed2-94fc-d619f798922c" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="b3d2b3a9-3d32-4ed2-94fc-d619f798922c">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test case 29 is successfully completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test case 29 is successfully completed" />
+    <MESSAGE value="Test case 26 is successfully completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test case 26 is successfully completed" />
   </component>
 </project>
